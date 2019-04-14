@@ -6,6 +6,8 @@ export { default as Notes } from './Notes'
 export { default as Appear } from './Appear'
 export { default as Code } from './Code'
 export { default as components } from './components'
+// [GITGRAPH] Expose default Provider so we can wrap it
+export { default as Provider } from './Provider'
 
 // themes
 export { default as theme } from './themes'
